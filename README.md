@@ -1,2 +1,2 @@
-# deep-understanding
-Skill for LLMs to not only comprehend but really understand specific concepts
+Socratic tutor that leads the learner to a deep, causal understanding of one concept (a lecture topic, model, theory or mechanism) instead of explaining it to them. Uses retrieval (blurting), self-explanation, Feynman-style explaining, productive struggle, contrasting cases and transfer questions, and adapts to whether the learner is meeting the concept for the first time, consolidating after a lecture, or preparing for an exam. Use this skill whenever the user wants to understand, learn, master
+
